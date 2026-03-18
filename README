@@ -1,0 +1,8 @@
+## DPR Calculations
+
+Simple scripts, mainly to calculate damage per round for Tabletop RPGs. 
+
+### Notes
+
+- Dice rolls are represented by average values
+- card_stats_gen.py can be used to simulate the generation of ability score arrays with a deck of cards
